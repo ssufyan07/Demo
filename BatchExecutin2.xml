@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite2">
+  <test thread-count="5" name="Test2">
+    <classes>
+      <class name="testSuite.LoginPage"/>
+      <class name="testSuite.Register"/>
+      <class name="testSuite.AddToCart"/>
+    </classes>
+  </test> <!-- Test2 -->
+</suite> <!-- Suite2 -->
